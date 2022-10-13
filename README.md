@@ -1,4 +1,4 @@
-### <div align="center">I'm Anant, a full-stack developer 👨‍💻 from India</div>  
+## <div align="center">I'm Anant, full-stack developer 👨‍💻 from India</div>  
   
 <br/>  
 
