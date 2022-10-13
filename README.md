@@ -1,4 +1,5 @@
-## <div align="center">I'm Anant, full-stack developer 👨‍💻 from India</div>  
+<h1 align="center">Hi 👋, I'm Anant Parmar</h1>
+<h3 align="center">A passionate full stack developer from India</h3>
   
 <br/>  
 
