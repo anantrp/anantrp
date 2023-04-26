@@ -1,18 +1,18 @@
-<h1 align="center">Hi 👋, I'm Anant Parmar</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h1 align="center">Anant Parmar</h1>
+<h3 align="center">Fullstack Developer from India. Interested in Startups, SaaS, and AI Integrations</h3>
   
 <br/>  
 
-- 🚀 Experienced with Laravel, Livewire, PHP, Javascript, MySQL  
+- ⚡ Currently Building AI-powered Chatbots for custom datasets (Semantic Search + LLMs) 
+
+
+- 🚀 Experienced with PHP (Laravel, Livewire), Javascript, Python, MySQL, Pinecone 
   
 
-- 🏍️ Familiar with Angular, Ionic, Node.js, MongoDB, React, Vue, Python  
+- 🏍️ Familiar with Angular, Ionic, React, Vue, Node.js, MongoDB, Redis, Weaviate, Firebase
   
 
-- 🦶 Learning Next.js, Go, Solidity  
-  
-
-- ⚡ Deliver best value for Quick Prototyping, MVP and Startups  
+- 🦶 Learning to write better and Tinkering with Langchain  
   
 
 <br/>  
@@ -79,14 +79,23 @@
 <br/>  
 
 <div align="center">
-<p>
-  <a href="https://github.com/anantrp/anantrp" >
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=anantrp&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" height="180px/>
-  </a>
+<a href="https://github.com/anantrp" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/anantrp" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://dev.to/anantrp" target="_blank">
+<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/anantrp" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://hashnode.com/@anantrp" target="_blank">
+<img src=https://img.shields.io/badge/hashnode-%232962FF.svg?&style=for-the-badge&logo=hashnode&logoColor=white alt=hashnode style="margin-bottom: 5px;" />
+</a>  
+</div>  
   
-  <a href="https://github.com/anantrp/anantrp" >
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=anantrp&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="anantrp's GitHub Stats" height="180px"/>
-  </a>
-  
- </p>
+
+<br/>  
 </div>  
