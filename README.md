@@ -82,7 +82,7 @@
 
 </td></tr></table>    
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=anantrp&bg_color=000000&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true) 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anantrp&show_icons=true&locale=en" alt="anantrp" /></p>
 
 <br/>  
 </div>  
