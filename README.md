@@ -78,15 +78,4 @@
 </div>
 
 </td></tr></table>   
-
-<table style="border: none;width:100%">
-  <tr style="border: none;width:100%">
-    <td valign="top" style="border: none;width:50%">
-      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anantrp&show_icons=true&locale=en&layout=compact" alt="anantrp" />
-    </td>
-    <td valign="top" style="border: none;width:50%">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=anantrp&show_icons=true&theme=transparent&count_private=true&text_color=656565" alt="anantrp" />
-    </td>
-  </tr>
-</table>
 </div>  
